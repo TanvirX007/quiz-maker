@@ -5,11 +5,6 @@
 - Install python extension on VSCode
 
 ## Set up and run
-
-1. Clone the repository
-
-```bash
-https://github.com/SabbirHosen/Web-quiz.git
 ```
 
 2. Change the working directory
